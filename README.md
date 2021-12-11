@@ -1,2 +1,2 @@
 # ssh_test
-checking push
+checking push 2
